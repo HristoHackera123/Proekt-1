@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberWorks", "NumberWorks\NumberWorks.csproj", "{1D7CDDDE-9229-48D6-B538-9470BE7E4087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UspehNaPichoveteOt2raGrupa9A", "UspehNaPichoveteOt2raGrupa9A\UspehNaPichoveteOt2raGrupa9A.csproj", "{91E2C8C0-7B3D-43D9-93AA-3AC8BE60D4D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D7CDDDE-9229-48D6-B538-9470BE7E4087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7CDDDE-9229-48D6-B538-9470BE7E4087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7CDDDE-9229-48D6-B538-9470BE7E4087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7CDDDE-9229-48D6-B538-9470BE7E4087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E2C8C0-7B3D-43D9-93AA-3AC8BE60D4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E2C8C0-7B3D-43D9-93AA-3AC8BE60D4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E2C8C0-7B3D-43D9-93AA-3AC8BE60D4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E2C8C0-7B3D-43D9-93AA-3AC8BE60D4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FBDF985-7137-473E-A3C0-D12CE93F5213}
+	EndGlobalSection
+EndGlobal
